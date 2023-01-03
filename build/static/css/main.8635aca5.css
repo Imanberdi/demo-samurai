@@ -1,0 +1,2 @@
+.app-wrapper{display:grid;grid-template-areas:"header header" "nav content";grid-template-columns:2fr 10fr;grid-template-rows:60px 1fr;margin:0 auto;overflow:hidden;width:800px}a{text-decoration:none}.error textarea{border:1px solid red}
+/*# sourceMappingURL=main.8635aca5.css.map*/

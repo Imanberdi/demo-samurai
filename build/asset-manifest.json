@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/demo-samurai/static/css/main.8635aca5.css",
+    "main.js": "/demo-samurai/static/js/main.bd8e6530.js",
+    "static/js/892.68275547.chunk.js": "/demo-samurai/static/js/892.68275547.chunk.js",
+    "static/js/95.6e648f49.chunk.js": "/demo-samurai/static/js/95.6e648f49.chunk.js",
+    "static/media/loader.gif": "/demo-samurai/static/media/loader.74583a979955a06faf3f.gif",
+    "index.html": "/demo-samurai/index.html",
+    "main.8635aca5.css.map": "/demo-samurai/static/css/main.8635aca5.css.map",
+    "main.bd8e6530.js.map": "/demo-samurai/static/js/main.bd8e6530.js.map",
+    "892.68275547.chunk.js.map": "/demo-samurai/static/js/892.68275547.chunk.js.map",
+    "95.6e648f49.chunk.js.map": "/demo-samurai/static/js/95.6e648f49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8635aca5.css",
+    "static/js/main.bd8e6530.js"
+  ]
+}
